@@ -1,3 +1,26 @@
 /*
  * Custom CSS for the MensDayBot talk slides
  */
+.reveal .title h1 {
+  color: #065e9b;
+  font-size: 3em; }
+
+.reveal .title img {
+  box-shadow: none;
+  border: none;
+  width: 350px;
+  height: auto; }
+
+.reveal #rate-limited {
+  padding-top: 0; }
+  .reveal #rate-limited img {
+    max-width: 60%;
+    height: auto; }
+
+.reveal .stb a {
+  background: rgba(255, 255, 255, 0.9); }
+
+.reveal pre code {
+  padding: 15px;
+  line-height: 1.6em;
+  font-size: 1.2em; }
